@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+//Texts
 void main() {
   runApp(MyApp());
 }
